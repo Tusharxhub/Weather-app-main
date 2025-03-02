@@ -29,9 +29,6 @@ cd Weather-app-main
 open index.html
 ```
 
-## 🌎 **Contribute**  
-We welcome contributions! Feel free to fork the repo and submit a PR.  
-
 ## 📞 **Contact**  
 📩 **Email:** [Mail](mailto:t.k.d.dey2033929837@gmail.com)  
 📷 **[Instagram](https://www.instagram.com/tushardevx01/)**  
