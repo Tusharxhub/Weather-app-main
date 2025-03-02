@@ -4,7 +4,6 @@ Here's your **final, optimized README** with the **contact section styled like t
 
 ### 🌩️ **Weather App** – Your Ultimate Weather Companion 🌦️  
 
-![Weather App Banner](https://source.unsplash.com/1000x400/?storm,rain,sun,clouds)  
 
 🚀 **Stay updated with real-time weather forecasts** using this sleek and interactive weather app. Get instant weather details for any location worldwide!  
 
