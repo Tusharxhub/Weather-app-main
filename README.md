@@ -38,7 +38,3 @@ open index.html
 
 ---
 
-
-
-
-
